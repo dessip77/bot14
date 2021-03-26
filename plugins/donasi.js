@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 ╭─「 DONATION 」
-│ • ＶＩＮＩＭＯＤＳ [5514997239463]
+│ •   N O V A T O [5511985598458]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
